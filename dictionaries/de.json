@@ -1,0 +1,17 @@
+{
+    "navigation": {
+      "home": "Startseite",
+      "about": "Ueber uns"
+    },
+    "page": {
+      "home": {
+        "title": "Wilkommen",
+        "description": "NextJS Intl"
+      },
+      "about": {
+        "title": "Ueber uns",
+        "description": "Ueber uns Seite"
+      }
+    }
+  }
+  

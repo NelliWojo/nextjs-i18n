@@ -1,0 +1,16 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "About"
+    },
+    "page": {
+        "home": {
+            "title": "Welcome",
+            "description": "NextJS Intl"
+        },
+        "about": {
+            "title": "About us",
+            "description": "About page"
+        }
+    }
+}
